@@ -1,1 +1,14 @@
-{}
+{
+  "name": "vortex",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
