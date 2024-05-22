@@ -1,0 +1,8 @@
+RewriteEngine on
+
+#Vetrax is a php framefork that help you for easy devlopment 
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]
