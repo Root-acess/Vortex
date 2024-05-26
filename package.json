@@ -1,14 +1,25 @@
 {
-  "name": "vortex",
-  "description": "",
+  "name": "vortex-php-framework",
+  "description": "A php framework that help people to build their project more fast",
   "version": "1.0.0",
   "main": "index.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Root-acess",
+  "license": "MIT",
   "dependencies": {
     "user": "^0.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Root-acess/vortex-php-framework.git"
+  },
+  "keywords": [
+    "php"
+  ],
+  "bugs": {
+    "url": "https://github.com/Root-acess/vortex-php-framework/issues"
+  },
+  "homepage": "https://github.com/Root-acess/vortex-php-framework#readme"
 }
